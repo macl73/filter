@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.main-content {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.toolbar-btn {
+  padding: 5px 10px;
+  margin: 10px;
+  border: 1px solid;
+  display: inline-block;
+}
+
+.active {
+  background: gray;
+}
